@@ -1,0 +1,10 @@
+C:\Users\jalma\source\repos\GubbenSomHänger\GubbenSomHänger\bin\Debug\GubbenSomHänger.exe.config
+C:\Users\jalma\source\repos\GubbenSomHänger\GubbenSomHänger\bin\Debug\GubbenSomHänger.exe
+C:\Users\jalma\source\repos\GubbenSomHänger\GubbenSomHänger\bin\Debug\GubbenSomHänger.pdb
+C:\Users\jalma\source\repos\GubbenSomHänger\GubbenSomHänger\obj\Debug\GubbenSomHänger.csprojAssemblyReference.cache
+C:\Users\jalma\source\repos\GubbenSomHänger\GubbenSomHänger\obj\Debug\GubbenSomHänger.Properties.Resources.resources
+C:\Users\jalma\source\repos\GubbenSomHänger\GubbenSomHänger\obj\Debug\GubbenSomHänger.csproj.GenerateResource.cache
+C:\Users\jalma\source\repos\GubbenSomHänger\GubbenSomHänger\obj\Debug\GubbenSomHänger.csproj.CoreCompileInputs.cache
+C:\Users\jalma\source\repos\GubbenSomHänger\GubbenSomHänger\obj\Debug\GubbenSomHänger.exe
+C:\Users\jalma\source\repos\GubbenSomHänger\GubbenSomHänger\obj\Debug\GubbenSomHänger.pdb
+C:\Users\jalma\source\repos\GubbenSomHänger\GubbenSomHänger\obj\Debug\GubbenSomHänger.HangaGubbe.resources
